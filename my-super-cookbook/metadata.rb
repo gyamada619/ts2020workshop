@@ -3,7 +3,7 @@ maintainer 'Garrett Yamada'
 maintainer_email 'garrettyamada@tamu.edu'
 license 'All Rights Reserved'
 description 'Installs/Configures my-super-cookbook'
-version '0.1.0'
+version '0.2.0'
 chef_version '>= 14.0'
 
 # The `issues_url` points to the location where issues for this cookbook are
