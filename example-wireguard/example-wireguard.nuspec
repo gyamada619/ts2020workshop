@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+
+  <metadata>
+
+    <id>example-wireguard</id>
+    <version>0.0.38</version>
+
+    <!-- == SOFTWARE SPECIFIC SECTION == -->
+    <!-- This section is about the software itself -->
+
+    <title>WireGuard</title>
+    <authors>Edge Security</authors>
+    <summary>Installs WireGuard.</summary>
+    <description>WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.</description>
+
+  </metadata>
+
+  <files>
+    <!-- Don't touch anything below this line -->
+    <file src="tools\**" target="tools" />
+  </files>
+
+</package>
