@@ -33,3 +33,5 @@ During the Chef lab, you will be expected to:
 * Test your cookbook using `kitchen`.
 
 Please make sure to ask workshop presenters questions as we move along!
+
+*WireGuard is © Copyright 2015-2019 Jason A. Donenfeld. All Rights Reserved. "WireGuard" and the "WireGuard" logo are registered trademarks of Jason A. Donenfeld. This repository is **not** intended as a public redistribution of WireGuard. The binary included is to be used only for educational purposes.
