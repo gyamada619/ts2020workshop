@@ -10,6 +10,11 @@ file 'C:\\example.txt' do
   action :create
 end
 
+# Create temporary caching directory
+directory 'C:\\temp' do
+  action :create
+end
+
 # Now we're going to copy our Chocolatey package to our new node.
 cookbook_file 'C:\\temp\\example-wireguard.0.0.38.nupkg' do
   source 'example-wireguard.0.0.38.nupkg'
