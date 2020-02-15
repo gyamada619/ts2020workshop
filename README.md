@@ -1,3 +1,5 @@
+![Image of Tech Summit Logo](https://tulula.sfo2.cdn.digitaloceanspaces.com/prod/images/a62a9553a5250267930c33c961939e8ea777ebf94af546101868c464584a1caf.png)
+
 # Managing Endpoints As Code - Tech Summit 2020
 
 Howdy! You've located the code examples repository for the Managing Endpoints As Code workshop. Please clone this repository to your local device if you wish to modify these examples as we work through the interactive labs during the workshop.
