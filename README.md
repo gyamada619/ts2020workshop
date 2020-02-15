@@ -26,7 +26,7 @@ During the lab, you will be expected to:
 
 ## Chef Lab
 
-A very basic example cookbook is inside this repository inside the `cookbooks` directory. This cookbook creates a text file at the root of `C:\` and installs the `example-wireguard` package.
+A very basic example cookbook is inside this repository inside the `my-super-cookbook` directory. This cookbook creates a text file at the root of `C:\` and installs the `example-wireguard` package.
 
 During the Chef lab, you will be expected to:
 
